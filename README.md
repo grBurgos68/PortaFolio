@@ -1,88 +1,89 @@
-# [Rafael Burgos Portfolio](https://startbootstrap.com/theme/agency)
+# [Rafael Burgos Portfolio](https://grburgos68.github.io/portafolio/)
 
+<h1 align="center">Portafolio</h1>
 
 [This is my portfolio](https://startbootstrap.com/theme/agency) create to show my projects 
 
 
 
 
+<p align="center">
+  <a href="#dart-description">Description</a> &#xa0; | &#xa0; 
+  <a href="#dart-features">Features</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-roadmap-to-future-improvements">Roadmap to future improvements</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-how-to-run">How to run</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/{{grburgos68}}" target="_blank">Author</a>
+</p>
 
-## Preview
-[![Portfolio](https://user-images.githubusercontent.com/98678236/186978012-38629c9e-094c-4478-9be0-2926da5c5f34.png)](https://startbootstrap.github.io/startbootstrap-agency/)
+<br>
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-agency/)**
+## :dart: Description ##
 
-## Status
+This repository contains my portfolio with the projects created for the Certification in programming Full Stack MERN MITxpro
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-agency/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-agency)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-agency/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-agency?type=dev)
 
-## Download and Installation
+[Demo](https://grburgos68.github.io/portafolio/)
 
-To begin using this template, choose one of the following options to get started:
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/agency)
-- Install using npm: `npm i startbootstrap-agency`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-agency.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-agency)
+## :dart: Repositories ##
 
-## Usage
+:heavy_check_mark: Pacmen Factory\
+:heavy_check_mark: Eye movements\
+:heavy_check_mark: Busstop Tracker Map;
 
-### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-### Advanced Usage
+## :sparkles: Roadmap to future improvements ##
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+		  
+:heavy_check_mark: resize the eyes when the screen size is modified;\
+:heavy_check_mark: incorporate size control
 
-#### npm Scripts
 
-- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-- `npm run start:debug` runs the project in debug mode
-- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
+## :rocket: Technologies ##
 
-You must have npm installed in order to use this build environment.
+The following tools were used in this project:
 
-### Contact Form
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-The contact form available with this theme is prebuilt to use [SB Forms](https://startbootstrap.com/solution/contact-forms).
-SB Forms is a simple form solution for adding functional forms to your theme. Since this theme is prebuilt using our
-SB Forms markup, all you need to do is sign up for [SB Forms on Start Bootstrap](https://startbootstrap.com/solution/contact-forms).
+## :white_check_mark: Requirements ##
 
-After signing up you will need to set the domain name your form will be used on, and you will then see your
-access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
-`API_TOKEN`. That's it! Your forms will be up and running!
+Before starting :checkered_flag:, you need to have [GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) installed.
 
-If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
-closing `</body>` tag to SB Forms.
+## :checkered_flag: How to run ##
 
-## Bugs and Issues
+```bash
+# Clone this project
+$ git clone https://github.com/grBurgos68/portafolio
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-agency/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/agency).
+# Access
+$ cd portafolio
 
-## About
+# Install dependencies
+$ yarn
 
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+# Run the project
+$ yarn start
 
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
+# The server will initialize in the <http://localhost:3000>
+```
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+## :memo: License ##
 
-- <https://davidmiller.io>
-- <https://twitter.com/davidmillerhere>
-- <https://github.com/davidtmiller>
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
 
-Copyright 2013-2022 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license.
+Made  by <a href="https://github.com/grBurgos68/portafolio" target="_blank">{Rafael Burgos}</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
