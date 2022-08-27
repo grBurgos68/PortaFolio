@@ -83,7 +83,6 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 ## :memo: Author ##
 
-
 Made  by <a href="https://github.com/grBurgos68/" target="_blank">Rafael Burgos</a>
 
 &#xa0;
