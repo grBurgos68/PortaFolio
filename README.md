@@ -15,7 +15,8 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-how-to-run">How to run</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{grburgos68}}" target="_blank">Author</a>
+  <a href="#memo-author">Author</a> &#xa0; | &#xa0;
+
 </p>
 
 <br>
@@ -80,6 +81,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
+## :memo: Author ##
 
 
 Made  by <a href="https://github.com/grBurgos68/" target="_blank">Rafael Burgos</a>
